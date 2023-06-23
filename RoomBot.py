@@ -61,4 +61,4 @@ async def creer_salon(interaction: discord.Interaction, nom_salon: str):
     await interaction.channel.send(f"Le salon `{nom_salon}` a été créé dans la catégorie `{category.name}`.")
 
 
-bot.run('MTEyMTg0MDk3NzA3MDUzNDg0Ng.GnjDk3.q3b3Nkw7Km_bGbWXORs5ObQihmJ-FFXjHVT6zc')
+bot.run('token')
